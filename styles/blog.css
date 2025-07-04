@@ -3,3 +3,10 @@
   padding: 10px;
   text-align: justify;
 }
+
+.last{
+  border: 2px solid burlywood;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px;
+  background-color: aqua;
+}
